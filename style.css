@@ -1,0 +1,21 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: aquamarine;
+}
+
+.fContainer {
+    background-color: rgb(30, 86, 86);
+    width: max-content;
+    height: max-content;
+}
+
+.wrapper {
+    width: 800px;
+    height: 80px;
+    display: flex;
+    font-size: larger;
+    background-color: black;
+    justify-content: space-between;
+}
